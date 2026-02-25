@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        "TTIHP_TBD"      # Project title
+  title:        "TTIHP_Hall_Sensor"      # Project title
   author:       "Hector Mclean"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Coming soon"      # One line description of what your project does
+  discord:      "hecmac"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "Project to implement a Hall Effect Sensor on the IHP26a shuttle."      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 

@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Project to implement a Hall Effect Sensor on the IHP26a shuttle. Makes use of a simple n-doped plate type hall sensor, 2 stage amplifier, Internal ADC, with digital readout. Ambitious, so unsure if success is possible yet. 
 
 ## How to test
 
-Explain how to use your project
+Present a strong magnet to the TT chip, 7 segment display will respond by increasing digit displayed.
+Connect VGA PMOD, Graphic corresponds to field strength.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Magnet, 7 segment display, VGA PMOD.
