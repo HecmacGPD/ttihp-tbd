@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_Hecmac
+MACRO tt_um_Hecmac_Hall
   CLASS BLOCK ;
-  FOREIGN tt_um_Hecmac ;
+  FOREIGN tt_um_Hecmac_Hall ;
   ORIGIN 0.000 0.000 ;
   SIZE 202.080 BY 313.740 ;
   PIN clk
@@ -51307,6 +51307,6 @@ MACRO tt_um_Hecmac
         RECT 170.000 20.000 175.000 25.000 ;
         RECT 180.000 15.000 185.000 25.000 ;
   END
-END tt_um_Hecmac
+END tt_um_Hecmac_Hall
 END LIBRARY
 
